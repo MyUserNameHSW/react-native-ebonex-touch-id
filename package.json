@@ -1,0 +1,27 @@
+
+{
+  "name": "react-native-touchid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "touch-id",
+    "face-id"
+  ],
+  "author": {
+    "name": "hswizy",
+    "email": "1129795010@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:quenice/react-native-cardview.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "0.68.0"
+  }
+}
